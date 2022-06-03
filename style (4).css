@@ -1,0 +1,114 @@
+
+.img5{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  
+}
+
+.box1{
+    width: 14vw;
+    height: 97vh;
+    background-color: rgb(207, 204, 204);
+    display: inline-block;
+    position: absolute;
+    font-size: 25px;
+    
+}
+.box1 ul li{
+   list-style: none;
+   margin-top: 80px;
+   font-weight: 600;
+}
+.sidenav{
+    display: flex;
+    flex-direction: column;
+  
+
+}
+
+
+.box2{
+    display: flex;
+    width: 83vw;
+    height: 45vh;
+    background-color: rgb(131, 114, 130);
+    margin-left: 15vw;
+    justify-content: space-around;  
+    color: rgb(255, 255, 255);
+}
+.img{
+    position: absolute;
+    margin-right: 2vw;
+    margin-top: 20vh;
+}
+
+.box3{
+    width: 83vw;
+    height: 13vh;
+    background-color: rgb(236, 221, 221);
+    margin-left: 15vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.a4{
+    border: 1px solid black;
+}
+
+
+.box4{
+    width: 83vw;
+    height: 13vh;
+    background-color: rgb(207, 204, 204);
+    margin-left: 15vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.b4{
+    border: 1px solid black;
+}
+.box5{
+    width: 83vw;
+    height: 13vh;
+    background-color:  rgb(236, 221, 221);
+    margin-left: 15vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.c4{
+    border: 1px solid black;
+}
+.box6{
+    width: 83vw;
+    height: 13vh;
+    background-color: rgb(207, 204, 204);
+    margin-left: 15vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+.d4{
+    border: 1px solid black;
+}
+.footer{
+    width: 98vw;
+    height: 15vh;
+    background-color: rgb(74, 101, 189);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.e1{
+    color: aliceblue;
+}
